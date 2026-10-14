@@ -7,73 +7,84 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 ## Team 1
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 지익준 | [ikjun-chi.github.io](https://ikjun-chi.github.io) |
 
 ## Team 2
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 박혜민 | [lemonbuilder.github.io](https://lemonbuilder.github.io) |
 
 ## Team 3
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 신희진 | [heejin-shin-2026.github.io](https://heejin-shin-2026.github.io) |
 
 ## Team 4
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 김소라 | [https://shellkim.github.io/](https://shellkim.github.io/) |
 
 ## Team 5
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 6
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 강경구 | [kgg2512.github.io](https://kgg2512.github.io) |
 
 ## Team 7
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 양진석 | [wlstjr5817-cyber.github.io](https://wlstjr5817-cyber.github.io) |
+| 류대훈 | [daehoon-ryu.github.io](https://daehoon-ryu.github.io) |
 
 ## Team 8
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 임동균 | [https://donggyunlim0525-netizen.github.io](https://donggyunlim0525-netizen.github.io) |
 
 ## Team 9
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 양대성 | [equipment0226.github.io](https://equipment0226.github.io) |
 
 ## Team 10
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 11
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 12
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 13
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 김이서 | [yiseo-kim.github.io](https://yiseo-kim.github.io) |
 
 ## Team 14
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 장현아 | [cchang-01.github.io](https://cchang-01.github.io) |
 
 ---
 
@@ -99,7 +110,7 @@ Your row shows only the address of your personal page.
 Row format:
 
 ```
-| [your-username.github.io](https://your-username.github.io) |
+| your name | [your-username.github.io](https://your-username.github.io) |
 ```
 
 ### With your coding assistant
